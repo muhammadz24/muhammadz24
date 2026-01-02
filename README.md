@@ -18,6 +18,15 @@
 
 ---
 
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&weight=400&size=35&pause=1000&color=F53D7F&center=true&vCenter=true&width=600&lines=FULL+STACK+MERN+DEVELOPER;AGENTIC+AI+ENGINEER;PYTHON+%26+GEN+AI+EXPERT;BUILDING+INTELLIGENT+APPS" alt="Glitch Text" />
+  </a>
+</div>
+
+---
+
 ### 🎭 WHO AM I?
 
 <p align="left">
