@@ -15,7 +15,7 @@
 ### 🎭 WHO AM I?
 
 <p align="left">
-🖤 A Developer who turns ideas into <b>INTELLIGENT CODE</b>.<br>
+✔ A Developer who turns ideas into <b>INTELLIGENT CODE</b>.<br>
 ✔ <b>MERN STACK</b> (MongoDB, Express, React, Node.js)<br>
 ✔ <b>AI & GEN-AI ENTHUSIAST</b> (Agentic AI, LLMs, LAMs)<br>
 ✔ <b>PYTHON CORE EXPERT</b> (OOPs & Scripting)<br>
