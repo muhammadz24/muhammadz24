@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Coding Animation" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450" alt="Coding Attitude" />
 
 </div>
 
@@ -59,10 +59,10 @@
 
 ---
 
-### 🎭 FUN FACT
+### ⚠️ THE REALITY
 
 <div align="center">
 <i>"My code works perfectly... I just have no idea WHY." 🤔</i>
 <br><br>
-🔥 <b>"POWERED BY COFFEE, BUGS & STACK OVERFLOW"</b> 🔥
+🔥 <b>"I DON'T FOLLOW RULES. I WRITE THEM."</b> 🔥
 </div>
