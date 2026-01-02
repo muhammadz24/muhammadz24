@@ -62,7 +62,7 @@
 ### ⚠️ THE REALITY
 
 <div align="center">
-<i>"My code works perfectly... I just have no idea WHY." 🤔</i>
+<b>"My code works perfectly... I just have no idea WHY." 🤔</b>
 <br><br>
 🔥 <b>"I DON'T FOLLOW RULES. I WRITE THEM."</b> 🔥
 </div>
