@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F53D7F&center=true&vCenter=true&width=550&lines=FULL+STACK+MERN+DEVELOPER;AGENTIC+AI+ENGINEER;PYTHON+%26+GEN+AI+EXPERT;BUILDING+INTELLIGENT+APPS" alt="Typing SVG" />
 </a>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=339933&center=true&vCenter=true&width=550&lines=SOFTWARE+DEVELOPER;PROBLEM+SOLVER;TECH+EXPLORER;OPEN+SOURCE+CONTRIBUTOR" alt="Developer Typing SVG" />
+</a>
+
 </div>
 
 ---
@@ -14,10 +18,9 @@
 
 <p align="left">
 🖤 A Developer who turns ideas into <b>INTELLIGENT CODE</b>.<br>
-✔ <b>MASTER OF MERN STACK</b> (MongoDB, Express, React, Node.js)<br>
-✔ <b>AI & GEN-AI ENTHUSIAST</b> (Agentic AI, LLMs)<br>
+✔ <b>MERN STACK</b> (MongoDB, Express, React, Node.js)<br>
+✔ <b>AI & GEN-AI ENTHUSIAST</b> (Agentic AI, LLMs, LAMs)<br>
 ✔ <b>PYTHON CORE EXPERT</b> (OOPs & Scripting)<br>
-📌 🌎 <a href="https://github.com/muhammadz24"><b>VISIT MY PORTFOLIO</b></a>
 </p>
 
 ---
@@ -46,16 +49,6 @@
 
 ---
 
-### ⚡ GITHUB STATS
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadz24&show_icons=true&theme=radical&hide_border=true" alt="Muhammad's Stats" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadz24&theme=radical&hide_border=true" alt="Muhammad's Streak" />
-</div>
-
----
-
 ### 🚀 MY CONTRIBUTIONS & TOP PROJECTS
 
 🔹 **🤖 AGENTIC AI CHATBOT** _Context-aware AI agent built with Python, LangChain, & OpenAI._
@@ -69,7 +62,7 @@
 ### 🎭 FUN FACT
 
 <div align="center">
-<i>"GREAT DEVELOPERS SOLVE PROBLEMS THEY WERE UNQUALIFIED FOR UNTIL THEY ACTUALLY DID IT!"</i>
+<i>"Debugging is like being the detective in a crime movie where you are also the murderer." 🕵️‍♂️</i>
 <br><br>
-🔥 <b>"CODE IT. BREAK IT. FIX IT. LEARN FROM IT. REPEAT!"</b> 🔥
+🔥 <b>"EAT. SLEEP. CODE. REPEAT."</b> 🔥
 </div>
