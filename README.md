@@ -12,9 +12,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&pause=1000&color=F53D7F&center=true&vCenter=true&width=500&lines=ERROR+404:+SLEEP+NOT+FOUND;CODING+IS+NOT+A+CRIME;I+WRITE+BUGS+THAT+FIX+THEMSELVES" alt="Glitch Text" />
-</div>
+
 
 <br>
 
