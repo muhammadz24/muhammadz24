@@ -50,6 +50,7 @@
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
 </div>
 
+<br>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongo,express,react,nodejs,python,bots,discord,postman,vscode,github&theme=dark" />
