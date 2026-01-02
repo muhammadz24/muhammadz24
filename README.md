@@ -12,11 +12,7 @@
 ---
 <br>
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongo,express,react,nodejs,python,bots,discord,postman,vscode,github&theme=dark" />
-  </a>
-</div>
+
 
 <br>
 
@@ -52,6 +48,12 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+</div>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongo,express,react,nodejs,python,bots,discord,postman,vscode,github&theme=dark" />
+  </a>
 </div>
 
 ---
