@@ -7,11 +7,10 @@
 </a>
 
 <br>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=35&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=600&lines=SYSTEM+BREACH...;INITIALIZING+HACK...;FULL+STACK+DEVELOPER;PYTHON+%26+AI+EXPERT" alt="Glitch Typing SVG" />
-  </a>
-</div>
+
+
+
+
 <br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450" alt="Coding Attitude" />
