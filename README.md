@@ -13,7 +13,9 @@
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongo,express,react,nodejs,python,bots,discord,postman,vscode,github&theme=dark" />
+  </a>
 </div>
 
 <br>
