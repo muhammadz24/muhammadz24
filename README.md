@@ -12,9 +12,8 @@
 ---
 <br>
 
-
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500" />
+  <img src="https://raw.githubusercontent.com/kaopanbo/kaopanbo/master/assets/programmer.gif" width="450" />
 </div>
 
 
