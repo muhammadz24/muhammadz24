@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F53D7F&center=true&vCenter=true&width=550&lines=FULL+STACK+MERN+DEVELOPER;AGENTIC+AI+ENGINEER;PYTHON+%26+GEN+AI+EXPERT;BUILDING+INTELLIGENT+APPS" alt="Typing SVG" />
 </a>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=339933&center=true&vCenter=true&width=550&lines=SOFTWARE+DEVELOPER;PROBLEM+SOLVER;TECH+EXPLORER;OPEN+SOURCE+CONTRIBUTOR" alt="Developer Typing SVG" />
-</a>
+
 
 </div>
 
